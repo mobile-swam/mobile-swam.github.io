@@ -7,10 +7,10 @@ The official Home page to deploy for Mobile-Aware SWAM.
 
 
 ## Demo
-
+<img src=https://github.com/mobile-swam/mobile-swam.github.io/blob/main/img/notavailable.png width=300 height=300> </img>
 
 ## How to Contribute
-
+W.I.P
 
 ## Teminology
 * SWAM: SWAp + ooM
