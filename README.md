@@ -1,13 +1,13 @@
-# mobile-swam.github.io
+# https://mobile-swam.github.io
 The official Home page to deploy for Mobile-Aware SWAM.
 
 
 ## Getting Started
-<img src=https://github.com/mobile-swam/mobile-swam.github.io/blob/main/img/make-menuconfig-swam.png> </img>
 
+![SWAM, make menuconfig](/img/make-menuconfig-swam.png)
 
 ## Demo
-<img src=https://github.com/mobile-swam/mobile-swam.github.io/blob/main/img/notavailable.png width=300 height=300> </img>
+![Coming soon](img/notavailable.png)
 
 ## How to Contribute
 W.I.P
