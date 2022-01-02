@@ -3,6 +3,7 @@ The official Home page to deploy for Mobile-Aware SWAM.
 
 
 ## Getting Started
+On-Demand SWAP provides fast swap-out and two-level proactive swap-in in order to enhance the performance of swapping.
 
 ![SWAM, make menuconfig](/img/make-menuconfig-swam.png)
 
