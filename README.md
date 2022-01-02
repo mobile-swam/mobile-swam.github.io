@@ -10,7 +10,7 @@ The official Home page to deploy for Mobile-Aware SWAM.
 ![Coming soon](img/notavailable.png)
 
 ## How to Contribute
-W.I.P
+![Coming soon](img/wip.png)
 
 ## Teminology
 * SWAM: SWAp + ooM
