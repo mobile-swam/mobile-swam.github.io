@@ -1,5 +1,5 @@
 # https://mobile-swam.github.io
-The official Home page to deploy for Mobile-Aware SWAM.
+The official home page for mobile-aware SWAM
 
 ## Introduction
 Recently, to mitigate memory shortage problem of applications in mobile devices, swapping mechanism has been introduced, which can preserve the state of the swapped-out processes. However, frequent swap operations cause very similar effect to thrashing in paging systems, which worsens application responsiveness. Meanwhile, as the size of applications grew, the RAM capacity of mobile devices was increased 16-fold from 512 MB to 8 GB. This change again created an environment where applications consuming larger memory capacity can be developed and more applications can be run. Consequently, modern mobile devices need much larger physical memory capacity as a response to the growing memory competition among the applications. However, even though the physical memory capacity increases, the forced termination of processes due to OOMK operation occurs frequently because more applications use a large memory space indiscriminately, which degrades the application performance significantly.
