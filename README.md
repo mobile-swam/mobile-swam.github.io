@@ -10,6 +10,10 @@ On-Demand SWAP provides fast swap-out and two-level proactive swap-in in order t
 ## Demo
 ![Coming soon](img/notavailable.png)
 
+## Discussion Channel
+* https://gather.town/app/AwPmQH37E46wxaN2/SWAM
+![Coming soon](img/gather-town-swam.png)
+
 ## How to Contribute
 ![Coming soon](img/wip.png)
 
