@@ -30,9 +30,11 @@ To solve these problems, this paper proposes the SWAM, a new integrated memory m
 
 
 ## Teminology
-* SWAM: SWAp + ooM
+* SWAM: Swap + OOMK
 * OOM: Out-of-Memory
 * OOMK: OOM Killer
 * LMK: Low Memory Killer in kernel-space
 * LMKD: LMK Daemon in user-space
 * Segfault: Segmentaiton Fault
+* swap-out: A procedure that Kswapd try to move  anonymous pages from a memory to a swap device
+* swap-clean: A procedure that try to remove a anomymous page of a so-page types
