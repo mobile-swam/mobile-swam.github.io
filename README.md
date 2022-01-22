@@ -16,7 +16,7 @@ To solve these problems, this paper proposes the SWAM, a new integrated memory m
 
 ## Related work
 We summarize the main contribution, as well as the strong and weak elements, from the important 50 publications published between 1999 and 2021.
-* Please refer to [Here](https://github.com/mobile-swam/mobile-swam.github.io/wiki/Related-works)
+* For more details, please refer to [Here](https://github.com/mobile-swam/mobile-swam.github.io/wiki/Related-works)
 
 ![50 papers between 1999 and 2021](/img/related-work-50-papers.png)
 
