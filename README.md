@@ -14,6 +14,15 @@ To solve these problems, this paper proposes the SWAM, a new integrated memory m
 ![SWAM, make menuconfig](/img/make-menuconfig-swam.png)
 
 
+## Demo
+
+* Before SWAM:
+[![Before SWAM](https://img.youtube.com/vi/stYu2EhvBFk/0.jpg)](https://youtu.be/stYu2EhvBFk)
+
+* After SWAM:
+[![After SWAM](https://img.youtube.com/vi/JvZp1Kymsl8/0.jpg)](https://youtu.be/JvZp1Kymsl8)
+
+
 ## Related work
 We summarize the main contribution, as well as the strong and weak elements, from the important 50 publications published between 1999 and 2021.
 * For more details, please refer to [Here](https://github.com/mobile-swam/mobile-swam.github.io/wiki/Related-works)
