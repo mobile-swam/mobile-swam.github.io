@@ -18,11 +18,11 @@ To solve these problems, this paper proposes the SWAM, a new integrated memory m
 
 * Before SWAM:
 
-[![Before SWAM](https://img.youtube.com/vi/stYu2EhvBFk/0.jpg)](https://youtu.be/stYu2EhvBFk)
+[![Before SWAM](img/demo-before.jpg)](https://youtu.be/stYu2EhvBFk)
 
 * After SWAM:
 
-[![After SWAM](https://img.youtube.com/vi/JvZp1Kymsl8/0.jpg)](https://youtu.be/JvZp1Kymsl8)
+[![After SWAM](img/demo-after.jpg)](https://youtu.be/JvZp1Kymsl8)
 
 
 ## Related work
