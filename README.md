@@ -8,7 +8,6 @@ To solve these problems, this paper proposes the SWAM, a new integrated memory m
 
 
 ## Getting Started
-
 * https://github.com/mobile-swam/mobile-swam
 * https://github.com/mobile-swam/third-party
 
@@ -22,11 +21,11 @@ To solve these problems, this paper proposes the SWAM, a new integrated memory m
 ## Discussion Channel
 * https://gather.town/app/AwPmQH37E46wxaN2/SWAM
 
-![Coming soon](img/gather-town-swam.png)
+![GatherTodwn](img/gather-town-swam.png)
 
 
 ## How to Contribute
-![Coming soon](img/wip.png)
+* Please refer to [How to contribute](doc/contributing.md).
 
 
 ## Teminology
