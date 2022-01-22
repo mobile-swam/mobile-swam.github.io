@@ -1,7 +1,7 @@
 # https://mobile-swam.github.io
 The official home page for mobile-aware SWAM (Revisiting Swap & OOMK for New Challenge on Mobile Devices)
 
-![SWAM, the SWAM mascot](/img/swam-advertise01.png)  ![SWAM, the SWAM mascot](/img/swam-advertise02.png)  
+![SWAM, the SWAM mascot](/img/mobile-swam-logo.png)  
 
 
 ## Introduction
