@@ -48,4 +48,6 @@ Between 1999 and 2021, this figure depicts the trend of research articles on pro
 * LMKD: LMK Daemon in user-space
 * Segfault: Segmentaiton Fault
 * swap-out: A procedure that Kswapd try to move  anonymous pages from a memory to a swap device
-* swap-clean: A procedure that try to remove a anomymous page of a so-page types
+* swap-clean: A procedure that try to remove a anomymous page of a SO-page types
+* SO: Shared Object
+* 
