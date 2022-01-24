@@ -23,12 +23,17 @@ This demonstration shows the result of the Mobile-Aware SWAM evaluation. Chrome,
 [![SWAM Video](/img/demo.jpg)](https://youtu.be/8sJhmvuqVgs)
 
 ## Related work
-We summarize the main contribution, as well as the strong and weak elements, from the important 50 publications published between 1999 and 2021.
+We summarize the main contribution, as well as the strong and weak elements, from the meaningful 50 papers among 113 researche articles published between 1999 and 2021.
 * For more details, please refer to [HERE](https://github.com/mobile-swam/mobile-swam.github.io/wiki/Related-works).
 
 ![50 papers between 1999 and 2021](/img/related-work-50-papers.png)
 
-Between 1999 and 2021, this figure depicts the trend of research articles on protecting free memory. By visualizing the statistics as a graph, it is clear that while HDDs are being replaced by SSDs and storage IO such as eMMC/eUFS/NVRAM is developed, research articles on implementing SWAP in mobile devices are progressively increasing, with 2013 as the starting point. have. As can be observed, SWAP is a critical keyword for ensuring consistent and predictable user responsiveness and app launch speed in the mobile device environment when memory pressure is achieved. While OOM is a strategy for securing free memory without the user's permission, SWAP uses a temporary storage device to secure free memory without killing a process without the user's permission. SWAP, on the other hand, has structural issues with IO thrashing and NAND longevity. As a result, SWAP studies are critical for resolving these difficulties in mobile devices.
+Between 1999 and 2021, this figure depicts the trend of research articles on protecting available memory space. 
+By visualizing the statistics as a graph, it is clear that while HDDs are being replaced by SSDs and fater storage devices (e.g., eMMC/eUFS) is developed, research articles on implementing SWAP in mobile devices are progressively increasing, with 2013 as the starting point. 
+As can be observed, SWAP is a critical keyword for ensuring consistent and predictable app response time and app launch time in the mobile device environment when memory pressure is achieved. 
+While OOM is a strategy for securing free memory without the user's permission, SWAP uses a temporary storage device to secure free memory without killing a process without the user's permission. 
+SWAP, on the other hand, has structural issues with I/O thrashing and NAND speed. 
+As a result, SWAP studies are critical for resolving these difficulties in mobile devices.
 
 ## Discussion Channel
 * https://gather.town/app/AwPmQH37E46wxaN2/SWAM
@@ -53,4 +58,4 @@ Between 1999 and 2021, this figure depicts the trend of research articles on pro
 * swap-clean: A procedure to remove swapped-out pages of a SO-page type
 * SO files: Shared Object files (.so) in a storage (e.g., SSD, NnD)
 * SO pages: Shared Object pages in a memory (e.g., DRAM)
-* swam file: A file-system based swap file to archive the SO pages only from the memory
+* swam file: A file-system based swap file to swap-out/swap-in the SO pages only from/to the memory
