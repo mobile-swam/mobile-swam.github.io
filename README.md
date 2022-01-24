@@ -47,7 +47,10 @@ Between 1999 and 2021, this figure depicts the trend of research articles on pro
 * LMK: Low Memory Killer in kernel-space
 * LMKD: LMK Daemon in user-space
 * Segfault: Segmentaiton Fault
-* swap-out: A procedure that Kswapd try to move  anonymous pages from a memory to a swap device
-* swap-clean: A procedure that try to remove a anomymous page of a SO-page types
-* SO: Shared Object
-* 
+* Anonymous page: A shared page such as stack, heap, shared memory, and shared library
+* zram-out: A procedure to move anonymous pages from a memory to compressed in-memory swap space
+* swap-out: A procedure to move anonymous pages from a memory to a storage swap device
+* swap-clean: A procedure to remove swapped-out pages of a SO-page type
+* SO files: Shared Object files (.so) in a storage (e.g., SSD, NnD)
+* SO pages: Shared Object pages in a memory (e.g., DRAM)
+* swam file: A file-system based swap file to archive the SO pages only from the memory
