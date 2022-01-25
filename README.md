@@ -21,7 +21,7 @@ To solve these problems, this paper proposes the SWAM, a new integrated memory m
 ## Demo
 This demonstration shows the result of the Mobile-Aware SWAM evaluation. Chrome, KakaoTalk, MP3 player, Skype, and the Stock application are all shown in order. The left video depicts the conventional system, whereas the right video depicts the SWAM system. During a memory contention situation, SWAM-based user-space applications can be persistent without killing activity, relaunch time, application refreshes, or deferred response time.
 
-[![SWAM Video](/img/demo.jpg)](https://youtu.be/8sJhmvuqVgs)
+[![SWAM Video](/img/demo.jpg)](https://youtu.be/pcB9sqfGLso)
 
 ## Related work
 We summarize the main contribution, as well as the strong and weak elements, from the meaningful 50 papers among 113 researche articles published between 1999 and 2021.
