@@ -61,9 +61,9 @@ As a result, SWAP studies are critical for resolving these difficulties in mobil
 * LMKD: LMK Daemon in user-space
 * Segfault: Segmentaiton Fault
 * Anonymous page: A shared page such as stack, heap, shared memory, and shared library
-* zram-out: A procedure to move anonymous pages from a memory to compressed in-memory swap space
-* swap-out: A procedure to move anonymous pages from a memory to a storage swap device
-* swap-clean: A procedure to remove swapped-out pages of a SO-page type
-* SO files: Shared Object files (.so) in a storage (e.g., SSD, NnD)
+* Zram-out: A procedure to move anonymous pages from a memory to compressed in-memory swap space
+* Swap-out: A procedure to move anonymous pages from a memory to a storage swap device
+* Swap-clean: A procedure to remove swapped-out pages of a SO-page type
+* SO files: Shared Object files (.so) in a storage (e.g., SSD, eMMC/eUFS)
 * SO pages: Shared Object pages in a memory (e.g., DRAM)
-* swam file: A file-system based swap file to swap-out/swap-in the SO pages only from/to the memory
+* Swam file: A file-system based swap file to swap-out/swap-in the SO pages only from/to the memory
