@@ -16,8 +16,8 @@ SWAM consists of (1) On-Demand Swap that dynamically manages the swap space, (2)
 
 
 ## Getting Started
-* https://github.com/mobile-swam/mobile-swam
-* https://github.com/mobile-swam/third-party
+* [mobile-swam](https://github.com/mobile-swam/mobile-swam)
+* [third-party](https://github.com/mobile-swam/third-party)
 
 ![SWAM Development, make menuconfig](/img/make-menuconfig-swam.png)
 
