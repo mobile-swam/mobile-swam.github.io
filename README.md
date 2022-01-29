@@ -25,7 +25,7 @@ SWAM consists of (1) On-Demand Swap that dynamically manages the swap space, (2)
 ## Demo
 This demonstration shows the evaluation result of the Mobile-Aware SWAM. 
 Chrome, KakaoTalk, MP3 player, Skype, and the Stock application are all shown in order.
-Please press the below "DEMO" image.
+Please press the below "**demo**" image.
 The left video depicts the conventional system, whereas the right video depicts the SWAM system. 
 During a memory contention situation, SWAM-based user-space applications can be persistent without killing activity, relaunch time, application refreshes, and deferred response time.
 
