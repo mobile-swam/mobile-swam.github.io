@@ -45,7 +45,7 @@ SWAP, on the other hand, has structural issues with I/O thrashing and NAND speed
 As a result, SWAP studies are critical for resolving these difficulties in mobile devices.
 
 ## Discussion Channel
-* https://gather.town/app/AwPmQH37E46wxaN2/SWAM
+* [https://gather.town/app/AwPmQH37E46wxaN2/SWAM](https://gather.town/app/AwPmQH37E46wxaN2/SWAM)
 
 ![GatherTown](img/gather-town-swam.png)
 
