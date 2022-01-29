@@ -3,7 +3,7 @@ The official home page for mobile-aware SWAM
 * Revisiting Swap & OOMK for Improving User Responsiveness on Mobile Devices
 
 
-<img src=/img/mobile-swam-logo4.gif height=150 weidth=150></img> 
+<img src=/img/mobile-swam-logo4.gif height=100 weidth=100></img> 
 
 
 ## Introduction
