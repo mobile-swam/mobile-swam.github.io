@@ -17,8 +17,8 @@ SWAM consists of (1) On-Demand Swap that dynamically manages the swap space, (2)
 
 ## Getting Started
 If you want to access the GitHub addresses listed below, please send an email to leemgs.at.gmail.com.
-* [mobile-swam (Member Only)](https://github.com/mobile-swam/mobile-swam)
-* [third-party (Member Only)](https://github.com/mobile-swam/third-party)
+* [mobile-swam](https://github.com/mobile-swam/mobile-swam) (Member Only)
+* [third-party](https://github.com/mobile-swam/third-party) (Member Only)
 
 ![SWAM Development, make menuconfig](/img/make-menuconfig-swam.png)
 
