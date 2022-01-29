@@ -2,7 +2,8 @@
 The official home page for mobile-aware SWAM 
 * Revisiting Swap & OOMK for Improving User Responsiveness on Mobile Devices
 
-![SWAM, the SWAM mascot](/img/mobile-swam-logo4.gif)  
+
+<img src=/img/mobile-swam-logo4.gif height=150 weidth=150></img> 
 
 
 ## Introduction
