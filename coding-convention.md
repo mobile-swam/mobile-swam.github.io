@@ -3,6 +3,13 @@ layout: default
 title: Coding Convention
 ---
 
+## https://mobile-swam.github.io
+The official home page for mobile-aware SWAM 
+* SWAM: Revisiting Swap & OOMK for Improving User Responsiveness on Mobile Devices
+
+![SWAM, the SWAM mascot](/img/mobile-swam-logo4-small.gif) 
+
+## Coding Convention
 SWAM project follows [Google Style Guide](https://google.github.io/styleguide/cppguide.html) for coding convention.
 A few rules might be ignored depending on modules. For the full list of ignored rules, please see the following link:
 
