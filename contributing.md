@@ -33,8 +33,7 @@ The submitter has the first responsibility of keeping the created PR clean and n
 
 Each commit is required to be signed-off by the corresponding author.
 With properly configured development environment, you can add sign-off for a commit with ```-s``` option: e.g., ```git commit -s```.
-
-[Here is some stories on signed-off](https://stackoverflow.com/questions/1962094/what-is-the-sign-off-feature-in-git-for).
+[Here](https://stackoverflow.com/questions/1962094/what-is-the-sign-off-feature-in-git-for) is some stories on signed-off.
 
 - How to give the developers zero cost:
 ```bash
