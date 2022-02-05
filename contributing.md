@@ -15,7 +15,7 @@ Consistent code conventions are important for several reasons:
 * To make it easy to debug the code, with both a system call tracer and GNU debuggers. It should be easy to set breakpoints, view locals, and display and view data structures.
 * To attempt to improve code quality through consistency, and requiring patterns that are less likely to result in bugs either initially, or after code modification.
 
-Please, refer to [Coding Conventions](coding-convention.md) page.
+Please refer to [Coding Conventions](coding-convention.md) page.
 
 ## Code Reviews and PRs
 
