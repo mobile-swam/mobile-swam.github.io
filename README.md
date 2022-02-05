@@ -33,7 +33,7 @@ Please press the below "**demo**" image.
 The left video depicts the conventional system, whereas the right video depicts the SWAM system. 
 During a memory contention situation, SWAM-based user-space applications can be persistent without killing activity, relaunch time, application refreshes, and deferred response time.
 
-[![SWAM Video](/img/demo02.gif)](https://youtu.be/KOInpOcQMEI)
+[![SWAM Video](/img/demo04.gif)](https://youtu.be/KOInpOcQMEI)
 
 ## Related Work
 We summarize the main contribution, as well as the strong and weak elements, from the meaningful 50 papers among 113 research articles published between 1999 and 2021. 
