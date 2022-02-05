@@ -43,7 +43,7 @@ For more details, please refer to the below links.
 ![50 papers between 1999 and 2021](/img/related-work-50-papers.png)
 
 The above figure illustrates the direction and trend of research articles on securing available memory space between 1999 and 2021. 
-By visualizing the statistics as a graph, it is clear that while HDDs are being replaced by fater storage devices (e.g., SSD, eMMC, and eUFS) is developed, research articles on implementing SWAP in mobile devices are progressively increasing, with 2013 as the starting point. 
+By visualizing the statistics as a graph, it is clear that while HDDs are being replaced by faster storage devices (e.g., SSD, eMMC, and eUFS) is developed, research articles on implementing SWAP in mobile devices are progressively increasing, with 2013 as the starting point. 
 
 As can be observed, SWAP is a critical keyword for ensuring consistent and predictable app response time and app launch time in the mobile device environment when memory pressure is achieved. 
 While OOM is a strategy for securing free memory without the user's permission, SWAP uses a temporary storage device to secure free memory without killing a process without the user's permission. 
