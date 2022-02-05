@@ -1,4 +1,5 @@
 ---
+theme: jekyll-theme-leap-day
 layout: post
 title: How to Contribute
 ---
