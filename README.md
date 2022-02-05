@@ -69,7 +69,7 @@ Terminology is a broad term that refers to a collection of specialized terms or 
 * Anonymous page: A shared page such as stack, heap, shared memory, and shared library
 * Zram-out: A procedure to move anonymous pages from a memory to compressed in-memory swap space
 * Swap-out: A procedure to move anonymous pages from a memory to a storage swap device
-* Swap-clean: A procedure to remove swapped-out pages of a SO-page type
-* SO files: Shared Object files (.so) in a storage (e.g., SSD, eMMC/eUFS)
-* SO pages: Shared Object pages in a memory (e.g., DRAM)
-* Swam file: A file-system based swap file to swap-out/swap-in the SO pages only from/to the memory
+* **Swap-clean**: A procedure to remove swapped-out pages of a SO-page type
+* **SO files**: Shared Object files (.so) in a storage (e.g., SSD, eMMC/eUFS)
+* **SO pages**: Shared Object pages in a memory (e.g., DRAM)
+* **Swam file**: A file-system based swap file to swap-out/swap-in the SO pages only from/to the memory
