@@ -53,7 +53,8 @@ If you want to talk about related studies, techniques, idea, and new challenge, 
 
 
 ## How to Contribute
-* Please refer to [How to contribute](contributing.md).
+Contributing to open source can be a rewarding way to learn, teach, and build experience in just about any skill you can imagine.
+Please refer to [How to contribute](contributing.md).
 
 
 ## Teminology
