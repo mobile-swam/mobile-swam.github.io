@@ -4,7 +4,7 @@ title: Coding Convention
 ---
 
 ## https://mobile-swam.github.io
-The official home page for mobile-aware SWAM 
+The [official home page](https://mobile-swam.github.io) for mobile-aware SWAM 
 * SWAM: Revisiting Swap & OOMK for Improving User Responsiveness on Mobile Devices
 
 ![SWAM, the SWAM mascot](/img/mobile-swam-logo4-small.gif) 
