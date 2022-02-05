@@ -58,6 +58,8 @@ Please refer to [How to contribute](contributing.md).
 
 
 ## Teminology
+Terminology is a broad term that refers to a collection of specialized terms or definitions associated with a specific field, such as the SWAM project. We explain terminology  the SWAM project and how it is utilized to represent specific meanings.
+
 * SWAM: Swap + OOMK
 * OOM: Out-of-Memory
 * OOMK: OOM Killer
