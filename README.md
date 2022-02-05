@@ -37,7 +37,7 @@ We summarize the main contribution, as well as the strong and weak elements, fro
 For more details, please refer to the below links.
 * [PDF](/relatedwork/relatedwork.pdf)
 * [PNG](/relatedwork/relatedwork.zip)
-* [WiKi](https://github.com/mobile-swam/mobile-swam.github.io/wiki/Related-works).
+* [WiKi](https://github.com/mobile-swam/mobile-swam.github.io/wiki/Related-works)
 
 
 ![50 papers between 1999 and 2021](/img/related-work-50-papers.png)
