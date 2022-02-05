@@ -3,6 +3,12 @@ layout: default
 title: How to Contribute
 ---
 
+## https://mobile-swam.github.io
+The official home page for mobile-aware SWAM 
+* SWAM: Revisiting Swap & OOMK for Improving User Responsiveness on Mobile Devices
+
+![SWAM, the SWAM mascot](/img/mobile-swam-logo4-small.gif) 
+
 ## Coding Convention
 Consistent code conventions are important for several reasons:
 * *Most importantly:* To make it easy to read and understand the code. Remember: you may be the only one writing the code initially, but many people will need to read, understand, modify, and fix the code over its lifetime. These conventions attempt to make this task much easier. If the code consistently follows these standards, it improves developer understanding across the entire source base.
