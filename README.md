@@ -36,6 +36,7 @@ During a memory contention situation, SWAM-based user-space applications can be 
 We summarize the main contribution, as well as the strong and weak elements, from the meaningful 50 papers among 113 research articles published between 1999 and 2021. 
 For more details, please refer to the below links.
 * [PDF](/relatedwork/relatedwork.pdf)
+* [PNG](/relatedwork/relatedwork.zip)
 * [WiKi](https://github.com/mobile-swam/mobile-swam.github.io/wiki/Related-works).
 
 
