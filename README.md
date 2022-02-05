@@ -1,5 +1,5 @@
 [![GitHub license](https://dmlc.github.io/img/apache2.svg)](LICENSE) 
-![Gitter](https://img.shields.io/gitter/room/mobile-swam/mobile-swam.github.io) ![GitHub repo size](https://img.shields.io/github/repo-size/mobile-swam/mobile-swam.github.io) ![GitHub issues](https://img.shields.io/github/issues/mobile-swam/mobile-swam.github.io) ![GitHub pull requests](https://img.shields.io/github/issues-pr/mobile-swam/mobile-swam.github.io) ![GitHub contributors](https://img.shields.io/github/contributors/mobile-swam/mobile-swam.github.io)
+![Gitter](https://img.shields.io/gitter/room/mobile-swam/mobile-swam.github.io) ![GitHub repo size](https://img.shields.io/github/repo-size/mobile-swam/mobile-swam.github.io) ![GitHub issues](https://img.shields.io/github/issues/mobile-swam/mobile-swam.github.io) ![GitHub pull requests](https://img.shields.io/github/issues-pr/mobile-swam/mobile-swam.github.io)
 
 ## https://mobile-swam.github.io
 The [official home page](https://mobile-swam.github.io) for mobile-aware SWAM 
