@@ -1,7 +1,9 @@
+---
+layout: post
+title: Coding Convention
+---
 
-# Coding Convention
-
-ROS Application follows [Google Style Guide](https://google.github.io/styleguide/cppguide.html) for coding convention.
+SWAM project follows [Google Style Guide](https://google.github.io/styleguide/cppguide.html) for coding convention.
 A few rules might be ignored depending on modules. For the full list of ignored rules, please see the following link:
 
 ## C/C++
