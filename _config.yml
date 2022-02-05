@@ -1,10 +1,1 @@
-plugins:
-  - jekyll-relative-links
-relative_links:
-  enabled: true
-  collections: true
-include:
-  - README.md
-  - LICENSE.md
-  - CODE_OF_CONDUCT.md
-
+theme: jekyll-rtd-theme
