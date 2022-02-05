@@ -20,8 +20,9 @@ When you push your commits, ALWAYS run clang-format & cpplint to submit a commit
 
 ### clang-format 
 * https://clang.llvm.org/docs/ClangFormat.html
+
 clang-format automatically formats your code.
-Please, refer to http://releases.llvm.org/3.9.0/tools/clang/docs/ClangFormatStyleOptions.html for more details.
+Please, refer to the [options](http://releases.llvm.org/3.9.0/tools/clang/docs/ClangFormatStyleOptions.html) of Clang format style for more details.
 1. Install the latest clang-format (>= 3.8)
 ```bash
 $ sudo apt-cache search clang-format
@@ -37,6 +38,7 @@ $ find . -name '*.h' -or -name '*.hpp' -or -name '*.cpp' | xargs clang-format-XX
 
 ### cpplint
 * https://github.com/cpplint/cpplint
+
 cpplint is a static C++ style checker following Google's C++ style guide. cpplint for ROS modules is available at AuDri/ROS/catkin/style/cpplint.py.
 
 1. Directly run it with:
@@ -56,7 +58,7 @@ It changes the python files according to the defined style in ~/.config/yapf/sty
 We use pep 8. We use style config as below. You can use yapf with PIP.
 
 ```bash
-$ sudo pip install --proxy=http://10.112.1.184:8080 yapf
+$ sudo pip install --proxy=http://192.168.1.184:8080 yapf
 $ vi ~/.config/yapf/style
 [style]
 based\_on\_style = pep8
@@ -71,8 +73,8 @@ $ yapf -i *.py
 Pylint is a source code, bug and quality checker for the Python programming language. It follows the style recommended by PEP 8, the Python style guide.
 To check a python file with pylint:
 ```bash
-$ sudo pip install --proxy=http://10.112.1.184:8080 pylint
-$ cd AuDri
+$ sudo pip install --proxy=http://192.168.1.184:8080 pylint
+$ cd ros_prj
 $ cp ROS/catkin/style/.pylintrc ~/
 $ pylint your_file.py
 Then, modify incorrect statements that are checked by pylint before submitting your PR.
