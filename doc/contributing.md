@@ -1,4 +1,5 @@
 ---
+theme: jekyll-theme-modernist
 layout: post
 title: How to Contribute
 ---
