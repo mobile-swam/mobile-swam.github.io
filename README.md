@@ -20,7 +20,7 @@ If you want to access the GitHub addresses listed below, please send an email to
 * [SWAM](https://github.com/mobile-swam/swam) (Member only)
 * [Third-party](https://github.com/mobile-swam/third-party) (Member only)
 
-![SWAM Development, make menuconfig](/img/make-menuconfig-swam.png)
+![SWAM Development, make menuconfig](/img/make-menuconfig-swam02.png)
 
 
 ## Demo
