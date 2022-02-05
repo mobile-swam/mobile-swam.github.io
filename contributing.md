@@ -26,7 +26,7 @@ However, even if you are not a reviewer (designated by committer or maintainers)
 
 The submitter has the first responsibility of keeping the created PR clean and neat (rebase whenever there are merge conflicts), following up the feedback, testing when needed.
 
-### Any commits are required to be reviewed and approved before merged.
+**Any commits are required to be reviewed and approved before merged.**
 
 ## Signing off commits
 
