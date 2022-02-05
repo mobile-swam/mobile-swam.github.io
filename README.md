@@ -53,7 +53,7 @@ If you want to talk about related studies, techniques, idea, and new challenge, 
 
 
 ## How to Contribute
-* Please refer to [How to contribute](doc/contributing.md).
+* Please refer to [How to contribute](contributing.md).
 
 
 ## Teminology
