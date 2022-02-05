@@ -1,4 +1,7 @@
-# How to Contribute
+---
+layout: post
+title: How to Contribute
+---
 
 ## Coding Convention
 Consistent code conventions are important for several reasons:
