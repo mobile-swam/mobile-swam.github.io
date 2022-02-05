@@ -32,7 +32,7 @@ The submitter has the first responsibility of keeping the created PR clean and n
 
 Each commit is required to be signed-off by the corresponding author.
 With properly configured development environment, you can add sign-off for a commit with ```-s``` option: e.g., ```git commit -s```.
-[Here is some stories on sign-off](https://stackoverflow.com/questions/1962094/what-is-the-sign-off-feature-in-git-for).
+[Here is some stories on signed-off](https://stackoverflow.com/questions/1962094/what-is-the-sign-off-feature-in-git-for).
 
 - How to give the developers zero cost:
 ```bash
@@ -56,7 +56,7 @@ Usually, you are not allowed to push commits of other's work; however, you may d
 - You can sure there is no patents, licenses, or copyright issues.
 - You can grant all related rights to the community or project (depending on the licenses)
 
-From Torvalds' (original author of Linux and git) git repo, (documentation about git commit message tags)[https://git.kernel.org/pub/scm/linux/kernel/git/torvalds/linux.git/tree/Documentation/process/5.Posting.rst].
+From Torvalds' (original author of Linux and git) git repo, [https://git.kernel.org/pub/scm/linux/kernel/git/torvalds/linux.git/tree/Documentation/process/5.Posting.rst](documentation about git commit message tags).
 > Signed-off-by: this is a developer's certification that he or she has
    the right to submit the patch for inclusion into the kernel.  It is an
    agreement to the Developer's Certificate of Origin, the full text of
