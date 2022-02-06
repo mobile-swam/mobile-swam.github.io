@@ -36,6 +36,9 @@ SWAM-based user-space applications can be persistent during a memory contention 
 
 [![SWAM Video](/img/demo04.gif)](https://youtu.be/KOInpOcQMEI)
 
+(Figure: The demonstration of our proposed SWAM)
+
+
 ## Related Work
 We summarize the main contribution, as well as the strong and weak elements, from the meaningful 50 papers among 113 research articles published between 1999 and 2021. 
 For more details, please refer to the below links.
@@ -46,7 +49,7 @@ For more details, please refer to the below links.
 
 ![50 papers between 1999 and 2021](/img/related-work-50-papers.png)
 
-(Figure: The research trend to enhance mobile application speed)
+(Figure: The research trend to enhance an application speed on mobile platform)
 
 The above figure illustrates the direction and trend of research articles on securing available memory space between 1999 and 2021. 
 By visualizing the statistics as a graph, it is clear that while HDDs are being replaced by faster storage devices (e.g., SSD, eMMC, and eUFS) is developed, research articles on implementing SWAP in mobile devices are progressively increasing, with 2013 as the starting point. 
