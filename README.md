@@ -29,7 +29,7 @@ If you want to access the GitHub addresses listed below, please send an email to
 ## Demo
 This example demonstrates the evaluation result of the Mobile-Aware SWAM. 
 Chrome, KakaoTalk, MP3 player, Skype, and the Stock application are all shown in order.
-To view the video file, please click on the "red" icon below.
+To view the video file, please click on the "**red**" icon below.
 The left video depicts the conventional system, whereas the right video depicts the SWAM system. 
 SWAM-based user-space applications can be persistent during a memory contention situation without killing activity, relaunch time, application refreshes, and deferred response time.
 
