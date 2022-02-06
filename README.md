@@ -62,6 +62,7 @@ If you want to talk about related studies, techniques, idea, and new challenge, 
 
 ![GatherTown](img/gather-town-swam.png)
 
+[Figure: The SWAM room screenshot at https://gather.town]
 
 ## How to Contribute
 Contributing to open source can be a wonderful way to learn, teach, and get expertise in almost every skill imaginable.
