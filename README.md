@@ -11,9 +11,10 @@ The [official home page](https://mobile-swam.github.io) for mobile-aware SWAM
 ## Introduction
 This paper proposes the SWAM, a new integrated memory management technique that complements the shortcomings of both the swapping and killing mechanism in mobile devices. 
 SWAM consists of 
- * (1) On-Demand Swap that dynamically manages the swap space, 
- * (2) OOM Cleaner that preserves the process state by removing the shared object pages instead of killing the processes themselves, and 
- * (3) EOOM Killer that delays high-initialization-cost applications from being victim processes. 
+ 1. **On-Demand Swap** that dynamically manages the swap space, 
+ 2. **OOM Cleaner** that preserves the process state by removing the shared object pages instead of killing the processes themselves, 
+ 3. and **EOOM Killer** that delays high-initialization-cost applications from being victim processes.
+
 Experimental results demonstrate that SWAM significantly reduces the number of applications killed by OOMK (18x lower), and improves application launch time (41% faster) and response time (48% faster), compared to the conventional schemes.
 
 
