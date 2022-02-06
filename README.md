@@ -25,6 +25,7 @@ If you want to access the GitHub addresses listed below, please send an email to
 
 ![SWAM Development, make menuconfig](/img/make-menuconfig-swam02.png)
 
+[Figure: The "make menuconfig" screenshot to build the SWAM kernel]
 
 ## Demo
 This example demonstrates the evaluation result of the Mobile-Aware SWAM. 
@@ -44,6 +45,8 @@ For more details, please refer to the below links.
 
 
 ![50 papers between 1999 and 2021](/img/related-work-50-papers.png)
+
+[Figure: The research trend to enhance mobile application speed from 1999 to 2021]
 
 The above figure illustrates the direction and trend of research articles on securing available memory space between 1999 and 2021. 
 By visualizing the statistics as a graph, it is clear that while HDDs are being replaced by faster storage devices (e.g., SSD, eMMC, and eUFS) is developed, research articles on implementing SWAP in mobile devices are progressively increasing, with 2013 as the starting point. 
