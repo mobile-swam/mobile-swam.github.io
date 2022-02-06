@@ -9,12 +9,7 @@ The [official home page](https://mobile-swam.github.io) for mobile-aware SWAM
 
 
 ## Introduction
-Recently, to mitigate memory shortage problem of applications in mobile devices, swapping mechanism has been introduced, which can preserve the state of the swapped-out processes. 
-However, frequent swap operations cause very similar effect to thrashing in paging systems, which worsens application responsiveness. 
-Meanwhile, as the size of applications grew, the RAM capacity of mobile devices was increased 16-fold from 512 MB (2010) to 8 GB (2021). This change again created an environment where applications consuming larger memory capacity can be developed and more applications can be run. 
-Consequently, modern mobile devices need much larger physical memory capacity as a response to the growing memory competition among the applications. However, even though the physical memory capacity increases, the forced termination of processes due to OOMK operation occurs frequently because more applications use a large memory space indiscriminately, which degrades the application performance significantly.
-
-To solve these problems, this paper proposes the SWAM, a new integrated memory management technique that complements the shortcomings of both the swapping and killing mechanism in mobile devices. 
+This paper proposes the SWAM, a new integrated memory management technique that complements the shortcomings of both the swapping and killing mechanism in mobile devices. 
 SWAM consists of (1) On-Demand Swap that dynamically manages the swap space, (2) OOM Cleaner that preserves the process state by removing the shared object pages instead of killing the processes themselves, and (3) EOOM Killer that delays high-initialization-cost applications from being victim processes. Experimental results demonstrate that SWAM significantly reduces the number of applications killed by OOMK (18x lower), and improves application launch time (41% faster) and response time (48% faster), compared to the conventional schemes.
 
 
@@ -27,11 +22,11 @@ If you want to access the GitHub addresses listed below, please send an email to
 
 
 ## Demo
-This demonstration shows the evaluation result of the Mobile-Aware SWAM. 
+This example demonstrates the evaluation result of the Mobile-Aware SWAM. 
 Chrome, KakaoTalk, MP3 player, Skype, and the Stock application are all shown in order.
-Please press the below "**red**" image to watch the video file.
+To view the video file, please click on the "red" icon below.
 The left video depicts the conventional system, whereas the right video depicts the SWAM system. 
-During a memory contention situation, SWAM-based user-space applications can be persistent without killing activity, relaunch time, application refreshes, and deferred response time.
+SWAM-based user-space applications can be persistent during a memory contention situation without killing activity, relaunch time, application refreshes, and deferred response time.
 
 [![SWAM Video](/img/demo04.gif)](https://youtu.be/KOInpOcQMEI)
 
@@ -50,7 +45,7 @@ By visualizing the statistics as a graph, it is clear that while HDDs are being 
 
 As can be observed, SWAP is a critical keyword for ensuring consistent and predictable app response time and app launch time in the mobile device environment when memory pressure is achieved. 
 While OOM is a strategy for securing free memory without the user's permission, SWAP uses a temporary storage device to secure free memory without killing a process without the user's permission. 
-SWAP, on the other hand, has structural issues with I/O thrashing and NAND speed. 
+The conventional SWAP facility, on the other hand, has structural issues with thrashing and NAND speed. 
 As a result, SWAP studies are critical for resolving these difficulties in mobile devices.
 
 ## Discussion Channel
@@ -61,12 +56,12 @@ If you want to talk about related studies, techniques, idea, and new challenge, 
 
 
 ## How to Contribute
-Contributing to open source can be a rewarding way to learn, teach, and build experience in just about any skill you can imagine.
+Contributing to open source can be a wonderful way to learn, teach, and get expertise in almost every skill imaginable.
 Please refer to [How to contribute](contributing.md).
 
 
 ## Teminology
-Terminology is a broad term that refers to a collection of specialized terms or definitions associated with a specific field, such as the SWAM project. We explain terminology  the SWAM project and how it is utilized to represent specific meanings.
+The phrase "terminology" refers to a set of specialized terms or definitions related with a particular field, such as the SWAM project. We address the SWAM project's vocabulary and how it is used to convey specific meanings.
 
 * SWAM: Swap + OOMK
 * OOM: Out-of-Memory
