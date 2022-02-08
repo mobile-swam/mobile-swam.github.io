@@ -58,8 +58,8 @@ Usually, you are not allowed to push commits of other's work; however, you may d
 - You can grant all related rights to the community or project (depending on the licenses)
 
 From Torvalds' (original author of Linux and git) git repo, you can refer to the [documentation](https://git.kernel.org/pub/scm/linux/kernel/git/torvalds/linux.git/tree/Documentation/process/5.Posting.rst) about git commit message tags.
-> Signed-off-by: this is a developer's certification that he or she has
-   the right to submit the patch for inclusion into the kernel.  It is an
+> **Signed-off-by**: this is a developer's certification that he or she has
+   the right to submit the patch for inclusion into the kernel. It is an
    agreement to the Developer's Certificate of Origin, the full text of
-   which can be found in Documentation/process/submitting-patches.rst.  Code without a
+   which can be found in [submitting-patches.rst](Documentation/process/submitting-patches.rst). Code without a
    proper signoff cannot be merged into the mainline.
