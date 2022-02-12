@@ -36,7 +36,7 @@ SWAM-based user-space applications can be persistent during a memory contention 
 
 [![SWAM Video](/img/demo04.gif)](https://www.youtube.com/watch?v=zkhhfIbSB7s)
 
-(Figure: The demonstration of our proposed SWAM)
+(Figure: A demonstration of our proposed SWAM strategy. It takes one minute and twenty-seven seconds.)
 
 
 ## Related Work
