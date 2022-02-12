@@ -25,7 +25,7 @@ If you want to access the GitHub addresses listed below, please send an email to
 
 ![SWAM Development, make menuconfig](/img/make-menuconfig-swam03.png)
 
-(Figure: The "make menuconfig" screenshot to build the SWAM kernel)
+(Figure: Configuring the SWAM kernel with "make menuconfig")
 
 ## Demo
 This example demonstrates the evaluation result of the Mobile-Aware SWAM. 
