@@ -5,7 +5,7 @@
 The [official home page](https://mobile-swam.github.io) for mobile-aware SWAM 
 * SWAM: Revisiting Swap & OOMK for Improving User Responsiveness on Mobile Devices
 
-![SWAM, the SWAM mascot](/img/mobile-swam-logo4-small.gif) 
+![SWAM mascot](/img/mobile-swam-logo4-small.gif) 
 
 
 ## Introduction
@@ -17,7 +17,7 @@ SWAM consists of
 
 ![SWAM Architecture](/img/swam-arch.png) 
 
-(Figure: The overall system architecture of SWAM)
+(Figure: Overall system architecture of SWAM)
 
 Experimental results demonstrate that SWAM significantly reduces the number of applications killed by OOMK (18x lower), and improves application launch time (41% faster) and response time (48% faster), compared to the conventional schemes.
 
