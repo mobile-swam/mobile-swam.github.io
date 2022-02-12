@@ -72,7 +72,7 @@ Contributing to open source can be a wonderful way to learn, teach, and get expe
 Please refer to [How to contribute](contributing.md).
 
 
-## Teminology
+## Terminology
 The phrase "terminology" refers to a set of specialized terms or definitions related with a particular field, such as the SWAM paper. We address the SWAM project's vocabulary and how it is used to convey specific meanings.
 
 * Conventional Terminologies
