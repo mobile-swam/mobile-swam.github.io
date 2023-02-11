@@ -15,7 +15,7 @@ SWAM consists of
  2. **OOM Cleaner** that preserves the process state by removing the shared object pages instead of killing the processes themselves, 
  3. and **EOOM Killer** that delays high-initialization-cost applications from being victim processes.
 
-![SWAM Architecture](/img/swam-arch.png) 
+![SWAM Architecture](/img/swam-overview.png) 
 
 (Figure: Overall system architecture of SWAM)
 
