@@ -11,7 +11,7 @@ The [official home page](https://mobile-swam.github.io) for mobile-aware SWAM
 ## Introduction
 This paper proposes the SWAM, a new integrated memory management technique that complements the shortcomings of both the swapping and killing mechanism in mobile devices. 
 SWAM consists of 
- 1. **On-Demand Swap** that dynamically manages the swap space, 
+ 1. **Adaptive Swap** that dynamically manages the swap space, 
  2. **OOM Cleaner** that preserves the process state by removing the shared object pages instead of killing the processes themselves, 
  3. and **EOOM Killer** that delays high-initialization-cost applications from being victim processes.
 
@@ -19,7 +19,7 @@ SWAM consists of
 
 (Figure: Overall system architecture of SWAM)
 
-Experimental results demonstrate that SWAM significantly reduces the number of applications killed by OOMK (18x lower), and improves application launch time (41% faster) and response time (48% faster), compared to the conventional schemes.
+Experimental results demonstrate that SWAM significantly reduces the number of applications killed by OOMK (6.5x lower), and improves application launch time (36% faster) and response time (41% faster), compared to the conventional schemes.
 
 
 ## Getting Started
@@ -33,7 +33,7 @@ If you want to access the GitHub addresses listed below, please send an email to
 
 ## Demo
 This example demonstrates the evaluation result of the Mobile-Aware SWAM. 
-Chrome, KakaoTalk, MP3 player, Skype, and the Stock application are all shown in order.
+Foreground applications are all shown in order.
 To view the video file, please click on the "**red**" icon below.
 The left video depicts the conventional system, whereas the right video depicts the SWAM system. 
 SWAM-based user-space applications can be persistent during a memory contention situation without killing activity, relaunch time, application refreshes, and deferred response time.
@@ -82,16 +82,19 @@ The phrase "terminology" refers to a set of specialized terms or definitions rel
 * Conventional Terminologies
   * OOM: Out-of-Memory
   * OOMK: OOM Killer
-  * LMK: Low Memory Killer in kernel-space
-  * LMKD: LMK Daemon in user-space
+  * LMK: Low Memory Killer in kernel-land
+  * LMKD: LMK Daemon in user-land
   * Segfault: Segmentaiton Fault
-  * Anonymous page: A shared page such as stack, heap, shared memory, and shared library
-  * Zram-out: A procedure to move anonymous pages from a memory to compressed in-memory swap space
-  * Swap-out: A procedure to move anonymous pages from a memory to a storage swap device
+  * Anonymous page: A shared page such as stack, heap, shared memory, and shared library (.so)
+  * Zram-out: A procedure to move anonymous pages from a system memory to compressed in-memory swap space
+  * Swap-out: A procedure to move anonymous pages from a system memory to a storage swap device
+  * Swam-out: A procedure to move SO pages from a system memory to a dynamic storage swap device
 
 * SWAM Terminologies
-  * SWAM: Swap + OOMK
+  * ZRAM-region: A compressed swap space in a system memory
+  * SWAM-region: A dynamic swap space in a storage device
+  * SWAM: **Swa**p + OO**M**K
   * Swap-clean: A procedure to remove swapped-out pages of a SO-page type
-  * SO files: Shared Object files (.so) in a storage (e.g., SSD, eMMC/eUFS)
+  * SO files: Shared Object files (.so) in a storage device (e.g., SSD, eMMC/eUFS)
   * SO pages: Shared Object pages in a memory (e.g., DRAM)
-  * Swam file: A file-system based swap file to swap-out/swap-in the SO pages only from/to the memory
+  * Swam files: A file-system based swap file to swap-out/swap-in the SO pages only from/to the memory
