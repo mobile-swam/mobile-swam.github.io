@@ -40,7 +40,7 @@ With properly configured development environment, you can add sign-off for a com
 $ vi ~/.gitconfig
   [user]
           name = Gildong Hong
-          email = gildong.hong@samsung.com
+          email = gildong.hong@gmail.com
 $ git commit -s <file-name>
 // -s (--signoff) means automated signed-off-by statement
 ```
