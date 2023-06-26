@@ -88,7 +88,6 @@ The phrase "terminology" refers to a set of specialized terms or definitions rel
   * Anonymous page: A shared page such as stack, heap, shared memory, and shared library (.so)
   * Zram-out: A procedure to move anonymous pages from a system memory to compressed in-memory swap space
   * Swap-out: A procedure to move anonymous pages from a system memory to a storage swap device
-  * Swam-out: A procedure to move SO pages from a system memory to a dynamic storage swap device
 
 * SWAM Terminologies
   * ZRAM-region: A compressed swap space in a system memory
