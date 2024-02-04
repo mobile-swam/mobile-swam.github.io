@@ -77,6 +77,10 @@ If you want to talk about related studies, techniques, idea, and new challenge, 
 Contributing to open source can be a wonderful way to learn, teach, and get expertise in almost every skill imaginable.
 Please refer to [How to contribute](contributing.md).
 
+## Case Study
+
+* https://github.com/mobile-swam/mobile-swam.github.io/wiki/Case-study-:-SWAM-does-not-generate-SO%E2%80%90Symbol-lookup-costs
+
 
 ## Terminology
 The phrase "terminology" refers to a set of specialized terms or definitions related with a particular field, such as the SWAM paper. We address the SWAM project's vocabulary and how it is used to convey specific meanings.
