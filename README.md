@@ -26,7 +26,7 @@ Experimental results demonstrate that SWAM significantly reduces the number of a
 If you want to access the GitHub repository listed below, Please create a [new issue](https://github.com/mobile-swam/swam/issues/new) why you want to get the source files (e.g., your name, email, affiliation, technical domain, and purpose). Then, please send an email including the issue number to leemgs.at.gmail.com.
 * Source
   * [SWAM](https://github.com/mobile-swam/swam) (**GPLv2**)
-  * [Third-party](https://github.com/mobile-swam/third-party) (**Contacts: leemgs.at.gmail.com**)
+  * [Third-party](https://github.com/mobile-swam/third-party) (**Apachev2**)
 * Slide: [SWAM slide file](https://github.com/mobile-swam/mobile-swam.github.io/blame/main/Mobicom23-SWAM-%EC%9E%84%EA%B7%BC%EC%8B%9D-20231005-1410.pptx)
 * 
 ![SWAM Development, make menuconfig](/img/make-menuconfig-swam03.png)
